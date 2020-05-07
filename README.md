@@ -1,5 +1,5 @@
 # hello-word
-Repositório para iniciar CS50
+Start CS50
 
 Hello, ladies and gentlemen
 
